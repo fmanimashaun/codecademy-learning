@@ -25,6 +25,17 @@ My Codecademy Learning Diary
 * ```./``` in the sample code ```<a href="./contact.html">Contact</a>``` tells the browser to look for the ```contact.html``` file in the current directory/folder
 
 ### Understanding HTML Table
+
+* The ```<table>``` element creates a table.
+* The ```<tr>``` element adds rows to a table.
+* To add data to a row, you can use the ```<td>``` element.
+* Table headings clarify the meaning of data. Headings are added with the ```<th>``` element.
+* Table data can span columns using the ```colspan``` attribute.
+* Table data can span rows using the ```rowspan``` attribute.
+* Tables can be split into three main sections: a head, a body, and a footer.
+* A table’s head is created with the ```<thead>``` element.
+* A table’s body is created with the ```<tbody>``` element.
+* A table’s footer is created with the ```<tfoot>``` element.
 Sample code snippet below:
 ```html
 <table>
