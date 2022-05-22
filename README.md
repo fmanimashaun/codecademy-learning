@@ -6,6 +6,7 @@ My Codecademy Learning Diary
 * Textbook in javascript [Eloquent JavaScript - 3rd edition (2018)](https://eloquentjavascript.net/)
 * Textbook in HTML/CSS [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
 * Textbook in HTML/CSS [HTML & CSS IS HARD](https://www.internetingishard.com/)
+* HTML/CSS/Javascript reference documentation [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
 ## Fundamental of HTML
 ### Important tags to pay attention to
