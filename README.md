@@ -5,7 +5,7 @@ My Codecademy Learning Diary
 * Practice interview technical interview questions [Leetcode link](https://leetcode.com/)
 * Textbook in javascript [Eloquent JavaScript - 3rd edition (2018)](https://eloquentjavascript.net/)
 * Textbook in HTML/CSS [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
-* Textbook in HTML/CSS [html & css is hard](https://www.internetingishard.com/)
+* Textbook in HTML/CSS [HTML & CSS IS HARD](https://www.internetingishard.com/)
 
 ## Fundamental of HTML
 ### Important tags to pay attention to
