@@ -26,7 +26,7 @@ My Codecademy Learning Diary
 
 ### Understanding HTML Table
 Sample code snippet below:
-```
+```html
 <table>
   <thead>
     <tr>
