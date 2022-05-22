@@ -28,25 +28,43 @@ My Codecademy Learning Diary
 Sample code snippet below:
 ```html
 <table>
+  <!--Below code create the table header (thead) section that houses Column's title-->
   <thead>
+    <!--belw code create the table header row (tr) that houses each Column's title as shown with (th) tags-->
     <tr>
       <th>Quarter</th>
       <th>Revenue</th>
       <th>Costs</th>
     </tr>
+    <!--End of header row-->
   </thead>
+  <!--End of table header section row-->
+  
+  <!--Below code create the table body section that housses the table data-->
   <tbody>
+    <!-- each (tr) tag creates a row of data with td/th represent a cell in a row-->
     <tr>
+      <!--
+        a colspan/rowsppanattribute can be added to the th/td/tr to marge 2 or more cells together
+        either vertically in the case of (tr) or horizontally in the case of td/th see example below:
+        <tr rowspan="2"></tr> will merge to cells together vertically with  <tr colspan="2"></tr> will
+        merge 2 cells together horizonatally
+       -->
       <th>Q1</th>
       <td>$10M</td>
       <td>$7.5M</td>
     </tr>
+    <!--End of first row of data-->
+    <!--Start of a new row-->
     <tr>
-      <th>Q2</th>
+      <th>Q2</h>
       <td>$12M</td>
       <td>$5M</td>
     </tr>
+    <!--End of another row-->
   </tbody>
+  <!--End of table body section-->
+  <!--Table footer to show table summary like some or count or other summary statistics-->
   <tfoot>
     <tr>
       <th>Total</th>
@@ -54,7 +72,9 @@ Sample code snippet below:
       <td>$12.5M</td>
     </tr>
   </tfoot>
+<!--End of footer-->
 </table>
+
 ```
 
 
