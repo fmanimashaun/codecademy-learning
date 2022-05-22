@@ -24,3 +24,37 @@ My Codecademy Learning Diary
 * The ```<html></html>```is initiated to house the full html structure 
 * ```./``` in the sample code ```<a href="./contact.html">Contact</a>``` tells the browser to look for the ```contact.html``` file in the current directory/folder
 
+### Understanding HTML Table
+Sample code snippet below:
+```
+<table>
+  <thead>
+    <tr>
+      <th>Quarter</th>
+      <th>Revenue</th>
+      <th>Costs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Q1</th>
+      <td>$10M</td>
+      <td>$7.5M</td>
+    </tr>
+    <tr>
+      <th>Q2</th>
+      <td>$12M</td>
+      <td>$5M</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th>Total</th>
+      <td>$22M</td>
+      <td>$12.5M</td>
+    </tr>
+  </tfoot>
+</table>
+```
+
+
