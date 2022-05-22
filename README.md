@@ -2,8 +2,8 @@
 My Codecademy Learning Diary
 
 ## Useful resources
-* Practice interview technical interview questions ```https://leetcode.com/```
-* Textbook in javascript ```https://eloquentjavascript.net/```
+* Practice interview technical interview questions [Leetcoe](https://leetcode.com/)
+* Textbook in javascript [Eloquent JavaScript - 3rd edition (2018)](https://eloquentjavascript.net/)
 
 ## Fundamental of HTML
 ### Important tags to pay attention to
