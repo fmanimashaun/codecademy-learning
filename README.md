@@ -8,6 +8,7 @@ My Codecademy Learning Diary
 * Textbook in HTML/CSS [HTML & CSS IS HARD](https://www.internetingishard.com/)
 * HTML/CSS/Javascript reference documentation [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * HTML Code validator tool [HTML validation](https://validator.w3.org/)
+* HTML Elements Documentation [MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ## Fundamental of HTML
 ### Important tags to pay attention to
