@@ -4,6 +4,8 @@ My Codecademy Learning Diary
 ## Useful resources
 * Practice interview technical interview questions [Leetcode link](https://leetcode.com/)
 * Textbook in javascript [Eloquent JavaScript - 3rd edition (2018)](https://eloquentjavascript.net/)
+* Textbook in HTML/CSS [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+* Textbook in HTML/CSS [html & css is hard](https://www.internetingishard.com/)
 
 ## Fundamental of HTML
 ### Important tags to pay attention to
@@ -12,6 +14,7 @@ My Codecademy Learning Diary
 * The ```<video src="myVideo.mp4" width="320" height="240" controls>Video not supported</video>``` is a used to render video content on the screen with play control
 * The use of anchor tag can be seen as ```<a href="URL" target="_blank">Desired content to anchor</a>``` the ```target``` attribute with value ```"_blank"``` opens a new window/tab whenever the anchor tag content is clicked on in the browser
 * The use of ```<!-- add your comment here -->``` to introduce comments into html file
+* ```<div>``` vs ```<section>``` if we are introducing container for sole purpose of styling one, the use ```<div>``` is sufficient, else,  ```<section>``` should be use.
 
 ### Standard HTML Structure
 * The html document starts with a document declaration ```<!DOCTYPE html>``` to indicate the file is an HTML 5 documents
