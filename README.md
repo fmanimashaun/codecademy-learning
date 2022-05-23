@@ -9,6 +9,7 @@ My Codecademy Learning Diary
 * HTML/CSS/Javascript reference documentation [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * HTML Code validator tool [HTML validation](https://validator.w3.org/)
 * HTML Elements Documentation [MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* Learn CSS [Jen Kramer's Courses](https://frontendmasters.com/teachers/jen-kramer/)
 
 ## Fundamental of HTML
 ### Important tags to pay attention to
