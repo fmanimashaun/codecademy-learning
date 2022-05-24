@@ -16,6 +16,7 @@ My Codecademy Learning Diary
 * The ```<em>``` tag will generally render as italic emphasis, it is used to emphasize text
 * The  ```<strong>``` will generally render as bold emphasis, it is use to highlight important text
 * The ```<video src="myVideo.mp4" width="320" height="240" controls>Video not supported</video>``` is a used to render video content on the screen with play control
+* The ```<audio src="myAudio.mp4" type="audio/mp3" controls>Audio not supported</audio>``` is a used to render audio content on the screen with play control
 * The use of anchor tag can be seen as ```<a href="URL" target="_blank">Desired content to anchor</a>``` the ```target``` attribute with value ```"_blank"``` opens a new window/tab whenever the anchor tag content is clicked on in the browser
 * The use of ```<!-- add your comment here -->``` to introduce comments into html file
 * ```<div>``` vs ```<section>``` if we are introducing container for sole purpose of styling one, the use ```<div>``` is sufficient, else,  ```<section>``` should be use.
