@@ -10,7 +10,7 @@ My Codecademy Learning Diary
 * HTML Code validator tool [HTML validation](https://validator.w3.org/)
 * HTML Elements Documentation [MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 * Book: HTML & CSS, Jon Duckett, Chapters 10 (pp. 226-244), 13 (pp. 300-328), and 15 (pp. 358-404)
-* Responsive image engine [Link] (https://www.responsivebreakpoints.com/)
+* Responsive image engine [Link](https://www.responsivebreakpoints.com/)
 
 ## Fundamental of HTML
 ### Important tags to pay attention to
